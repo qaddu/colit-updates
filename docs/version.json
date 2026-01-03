@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.0+1",
+  "latest_version": "1.0.0+2",
   "download_url": "https://yourdomain.com/Colit_Setup_1.0.0.exe",
-  "mandatory": false,
+  "mandatory": true,
   "changelog": "Initial release"
 }
 
