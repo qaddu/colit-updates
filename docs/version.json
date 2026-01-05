@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.0+1",
+  "latest_version": "1.0.0+2",
   "download_url": "https://www.colit.in",
   "mandatory": false,
-  "changelog": "testing release"
+  "changelog": "Added some new features"
 }
 
