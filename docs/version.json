@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.0+3",
+  "latest_version": "1.0.0+4",
   "download_url": "https://www.colit.in",
   "mandatory": false,
-  "changelog": "The dashboard bug is now resolved."
+  "changelog": "Some new features added recently."
 }
 
